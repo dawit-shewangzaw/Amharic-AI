@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+dist/
+coverage/
+docs/
+
+# Environment
+.env
+.env.local
+
+# Prisma
+*.db
+
+# Logs
+*.log
+
+# OS
+.DS_Store
