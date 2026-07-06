@@ -2,6 +2,11 @@
 
 A web-based AI assistant for Amharic speakers. Ask questions in Amharic and receive responses in Ethiopic script (ፊደል).
 
+## Some Images :-
+
+<img width="1366" height="683" alt="Screenshot 2026-07-06 201823" src="https://github.com/user-attachments/assets/c9d89304-e988-4601-9025-f3e40ac90dc8" />
+
+
 ## Stack
 
 - **Frontend:** Next.js, TypeScript, TailwindCSS, Zustand, Better Auth client
